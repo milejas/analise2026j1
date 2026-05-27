@@ -9,5 +9,6 @@ elif 21 <= valor <= 30:
     print("O valor está entre 21 e 30.")
 else:
     print("O valor está fora das faixas especificadas.")
+print("teste")
     
 
