@@ -1,4 +1,4 @@
-
+print("alterado")
 
 sexo = input("Digite o sexo (M para Masculino / F para Feminino): ")
 idade = int(input("Digite a idade: "))
